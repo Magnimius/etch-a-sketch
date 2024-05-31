@@ -25,7 +25,7 @@ body {
 #cont div {
     border:1.5px solid black;
     display:flex;
-    flex:1 1 80px;
+    flex:1 1 30px;
     
 }
 

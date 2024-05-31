@@ -11,7 +11,7 @@ function createDivs(numDivs) {
     }
 }
 
-createDivs(16);
+createDivs(132);
 
 var divvy = document.querySelectorAll("div");
 for (const divver of divvy) {
