@@ -2,14 +2,6 @@
     margin:0;
     padding:0;
 }
-body {
-    padding:0;
-    margin:0;
-    display:flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: column;
-}
 
 #cont {
     border:4px solid black;
@@ -18,14 +10,14 @@ body {
     height:400px;
     width:400px;
     margin: 3rem auto;
-    flex-direction: column;
+    flex-direction:column;
+    justify-content:space-evenly;
     flex-wrap:wrap;
 }
 
 #cont div {
-    border:1.5px solid black;
-    display:flex;
-    flex:1 1 30px;
+    border:0.1px solid black;
+    flex:1 1 7.83%;
     
 }
 
